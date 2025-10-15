@@ -1,4 +1,5 @@
-Apex Global Enterprises
+Apex Global Enterprises dashboard
+
 1.🚀 Project Completed: Finance Expense Analysis Dashboard (Excel)
 I’ve recently completed an end-to-end Data Analyst project using Microsoft Excel, focused on analyzing a company’s financial expenses to uncover key business insights and help management make data-driven decisions.
 
