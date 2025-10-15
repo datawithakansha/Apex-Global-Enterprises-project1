@@ -1,4 +1,9 @@
-# Finance Expense Analysis Dashboard – Apex Global Enterprises
+🚀 Project Completed: Finance Expense Analysis Dashboard (Excel)
+I’ve recently completed an end-to-end Data Analyst project using Microsoft Excel, focused on analyzing a company’s financial expenses to uncover key business insights and help management make data-driven decisions.
+
+🔍 Project Overview
+In this project, I worked on a realistic finance dataset and created an interactive Excel dashboard that visualizes expense patterns across departments, vendors, and time periods.
+
 📊 Key Analyses Performed
 ✔️ Total Annual Expenses & Department-wise Spending
 ✔️ Monthly and Quarterly Expense Trends
@@ -15,4 +20,11 @@
 🏢 Vendor dependency was high (Top 2 vendors covered ~45% of total spend).
 💳 Online payments dominated over cash, ensuring smoother financial tracking.
 
+🧠 Tools & Techniques Used
+Excel Formulas: SUMIFS, AVERAGEIF, LARGE, % Contribution, Month-over-Month Change
+Pivot Tables & Charts (Line, Bar, Pie)
+KPI Cards and Slicers for interactive filtering
+
+💬 Outcome:
+This dashboard helps the finance manager easily monitor budget performance, identify overspending areas, and plan future budgets efficiently.
 <img width="1857" height="783" alt="DASHBOARD FINAL PROJECT1" src="https://github.com/user-attachments/assets/72b81156-67bc-48ff-a769-646bc7efcadf" />
